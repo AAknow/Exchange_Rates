@@ -1,6 +1,3 @@
-## CST-16163 Intro to Computer Programming
-## By: Aaron Knowles
-
 def main():
     exchDict = convertToDictionary("Exchrate.txt")
     # run loop until break is called
