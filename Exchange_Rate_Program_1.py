@@ -1,6 +1,3 @@
-## CST-16163 Intro to Computer Programming
-## By: Aaron Knowles
-
 def main():
     exchList = convertToList("Exchrate.txt")
     inputCheck = 0
